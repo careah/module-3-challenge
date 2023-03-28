@@ -2,6 +2,8 @@
 
 I do not know what to write in this. This is my read me for my python challenge. Below are the instructions that were completed. 
 
+I also had an issue with saving the files in separate folders so I had to combine them into a single folder and name them as PyBank_Poll in order for my code to be able to sucessfully read it. This was even after I copied the file path and linked it directly, it was still unable to read the csv. 
+
 
 ### PyBank Instructions
 
